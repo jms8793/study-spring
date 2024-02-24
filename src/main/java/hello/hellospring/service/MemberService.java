@@ -34,5 +34,4 @@ public class MemberService {
         return memberRepository.findByID(memberId);
     }
 
-
 }
